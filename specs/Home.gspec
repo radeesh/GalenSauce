@@ -1,0 +1,9 @@
+@objects
+    header			id	shell-header
+	logo			id  srv_shellHeaderMicrosoftLogo
+= Main section =
+	header:
+		height 50px
+        color-scheme > 75% #FFFFFF
+    logo:
+        image file imgs/microsoft.png, error 1229px
